@@ -1,13 +1,26 @@
 function challenge1 () {
-	
+    if (pass) {
+    	
+    } else {
+    	
+    }
 }
 function challenge3 () {
-	
+    if (pass) {
+    	
+    } else {
+    	
+    }
 }
 function challenge2 () {
-	
+    if (pass) {
+    	
+    } else {
+    	
+    }
 }
 // Don't forget to comment your code as you work!
+let pass = 0
 tiles.setCurrentTilemap(tilemap`level2`)
 let mySprite = sprites.create(img`
     . . . . f f f f . . . . . 
