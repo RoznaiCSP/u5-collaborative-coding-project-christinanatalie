@@ -5,7 +5,11 @@ function challenge3 () {
 	
 }
 function challenge2 () {
-	
+    if (true) {
+    	
+    } else {
+    	
+    }
 }
 // Don't forget to comment your code as you work!
 tiles.setCurrentTilemap(tilemap`level2`)
